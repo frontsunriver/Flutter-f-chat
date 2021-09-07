@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257992822548",
+    "project_id": "react-provider",
+    "storage_bucket": "react-provider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257992822548:android:ccea059992a3398e90fc01",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257992822548-6gjva05d7gt7p5vj3utt7f6e9m72s1lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE_Js0Y47nsbIswB2BFaV7LTIyjfmcz_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257992822548-6gjva05d7gt7p5vj3utt7f6e9m72s1lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
